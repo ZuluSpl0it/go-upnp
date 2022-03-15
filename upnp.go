@@ -33,9 +33,9 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.com/NebulousLabs/fastrand"
-	"gitlab.com/NebulousLabs/go-upnp/goupnp"
-	"gitlab.com/NebulousLabs/go-upnp/goupnp/dcps/internetgateway1"
+	"github.com/zuluspl0it/fastrand"
+	"github.com/zuluspl0it/go-upnp/goupnp"
+	"github.com/zuluspl0it/go-upnp/goupnp/dcps/internetgateway1"
 )
 
 // An IGD provides an interface to the most commonly used functions of an
