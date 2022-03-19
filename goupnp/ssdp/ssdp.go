@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"gitlab.com/NebulousLabs/go-upnp/goupnp/httpu"
+	"github.com/zuluspl0it/go-upnp/goupnp/httpu"
 )
 
 const (
